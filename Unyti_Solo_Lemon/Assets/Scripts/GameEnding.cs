@@ -29,7 +29,7 @@ public class GameEnding : MonoBehaviour
         m_IsPlayerCaught = true;
     }
 
-    void Update ()
+    void Update () // здесь можно изменить звуки и картинки победы/поражения
     {
         if (m_IsPlayerAtExit)
         {
