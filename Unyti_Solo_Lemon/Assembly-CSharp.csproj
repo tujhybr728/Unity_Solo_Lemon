@@ -58,7 +58,11 @@
     <Compile Include="Assets\Scripts\GameEnding.cs" />
     <Compile Include="Assets\Scripts\Observer.cs" />
     <Compile Include="Assets\Scripts\LightFlicker.cs" />
+<<<<<<< Updated upstream
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
+=======
+    <Compile Include="Assets\Scripts\MyScripts\Richag.cs" />
+>>>>>>> Stashed changes
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\3DBeginner_Third-PartyNotice.txt" />
